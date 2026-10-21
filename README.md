@@ -1,9 +1,9 @@
-# BÁO CÁO BÀI TẬP / ĐỒ ÁN
+# BÁO CÁO BÀI TẬP 
 
 ## THÔNG TIN SINH VIÊN
 
-- **Họ và tên:** Vương Thanh Thúy
-- **Mã số sinh viên:** 24810310270
+- **Họ và tên:** Trần Ngọc Anh
+- **Mã số sinh viên:** 24810310211
 - **Lớp:** D19CNPM3
 - **Tên môn học:** Lập trình .Net
 - **Tên bài tập:** Bài 4.6 – 4.8: BindingSource & File, MDI, Async/Await
